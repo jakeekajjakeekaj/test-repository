@@ -1,3 +1,5 @@
 # test-repository
 
-This is a second example
+Now I'm changing the file directly from github
+
+This is a third example
